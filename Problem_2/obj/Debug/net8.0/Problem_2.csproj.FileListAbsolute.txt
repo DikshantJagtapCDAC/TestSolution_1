@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Problem_2\bin\Debug\net8.0\Problem_2.exe
+C:\Users\lenovo\source\repos\Problem_2\bin\Debug\net8.0\Problem_2.deps.json
+C:\Users\lenovo\source\repos\Problem_2\bin\Debug\net8.0\Problem_2.runtimeconfig.json
+C:\Users\lenovo\source\repos\Problem_2\bin\Debug\net8.0\Problem_2.dll
+C:\Users\lenovo\source\repos\Problem_2\bin\Debug\net8.0\Problem_2.pdb
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.dll
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\refint\Problem_2.dll
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.pdb
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\Problem_2.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Problem_2\obj\Debug\net8.0\ref\Problem_2.dll
